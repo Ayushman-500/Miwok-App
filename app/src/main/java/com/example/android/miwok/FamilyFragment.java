@@ -76,16 +76,16 @@ public class FamilyFragment extends Fragment {
 
         final ArrayList<Word> family = new ArrayList<Word>();
 
-        family.add(new Word("father", "әpә", R.drawable.family_father, R.raw.family_father));
-        family.add(new Word("mother", "әṭa", R.drawable.family_mother, R.raw.family_mother));
-        family.add(new Word("son", "angsi", R.drawable.family_son, R.raw.family_son));
-        family.add(new Word("daughter", "tune", R.drawable.family_daughter, R.raw.family_daughter));
-        family.add(new Word("older brother", "taachi", R.drawable.family_older_brother, R.raw.family_older_brother));
-        family.add(new Word("younger brother", "chalitti", R.drawable.family_younger_brother, R.raw.family_younger_brother));
-        family.add(new Word("older sister", "teṭe", R.drawable.family_older_sister, R.raw.family_older_sister));
-        family.add(new Word("younger sister", "kolliti", R.drawable.family_younger_sister, R.raw.family_younger_sister));
-        family.add(new Word("grandmother", "ama", R.drawable.family_grandmother, R.raw.family_grandmother));
-        family.add(new Word("grandfather", "paapa", R.drawable.family_grandfather, R.raw.family_grandfather));
+        family.add(new Word("father", getString(R.string.miwokFather), R.drawable.family_father, R.raw.family_father));
+        family.add(new Word("mother", getString(R.string.miwokMother), R.drawable.family_mother, R.raw.family_mother));
+        family.add(new Word("son", getString(R.string.miwokSon), R.drawable.family_son, R.raw.family_son));
+        family.add(new Word("daughter", getString(R.string.miwokDaughter), R.drawable.family_daughter, R.raw.family_daughter));
+        family.add(new Word("older brother", getString(R.string.miwokOlderBrother), R.drawable.family_older_brother, R.raw.family_older_brother));
+        family.add(new Word("younger brother", getString(R.string.miwokYoungerBrother), R.drawable.family_younger_brother, R.raw.family_younger_brother));
+        family.add(new Word("older sister", getString(R.string.miwokOlderSister), R.drawable.family_older_sister, R.raw.family_older_sister));
+        family.add(new Word("younger sister", getString(R.string.miwokYoungerSister), R.drawable.family_younger_sister, R.raw.family_younger_sister));
+        family.add(new Word("grandmother", getString(R.string.miwokGrandMother), R.drawable.family_grandmother, R.raw.family_grandmother));
+        family.add(new Word("grandfather", getString(R.string.miwokGrandfather), R.drawable.family_grandfather, R.raw.family_grandfather));
 
 
 

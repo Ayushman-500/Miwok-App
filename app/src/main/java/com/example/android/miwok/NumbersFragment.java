@@ -94,16 +94,16 @@ public class NumbersFragment extends Fragment {
 
         final ArrayList<Word> words = new ArrayList<Word>();
 
-        words.add(new Word("one", "lutti", R.drawable.number_one, R.raw.number_one));
-        words.add(new Word("two", "otiiko", R.drawable.number_two, R.raw.number_two));
-        words.add(new Word("three", "tolookosu", R.drawable.number_three, R.raw.number_three));
-        words.add(new Word("four", "oyyisa", R.drawable.number_four, R.raw.number_four));
-        words.add(new Word("five", "massokka", R.drawable.number_five, R.raw.number_five));
-        words.add(new Word("six", "temmokka", R.drawable.number_six, R.raw.number_six));
-        words.add(new Word("seven", "kenekakau", R.drawable.number_seven, R.raw.number_seven));
-        words.add(new Word("eight", "kawinta", R.drawable.number_eight, R.raw.number_eight));
-        words.add(new Word("nine", "wo'e", R.drawable.number_nine, R.raw.number_nine));
-        words.add(new Word("ten", "na'aacha", R.drawable.number_ten, R.raw.number_ten));
+        words.add(new Word("one", getString(R.string.miwokOne), R.drawable.number_one, R.raw.number_one));
+        words.add(new Word("two", getString(R.string.miwokTwo), R.drawable.number_two, R.raw.number_two));
+        words.add(new Word("three", getString(R.string.miwokThree), R.drawable.number_three, R.raw.number_three));
+        words.add(new Word("four", getString(R.string.miwokFour), R.drawable.number_four, R.raw.number_four));
+        words.add(new Word("five", getString(R.string.miwokFive), R.drawable.number_five, R.raw.number_five));
+        words.add(new Word("six", getString(R.string.miwokSix), R.drawable.number_six, R.raw.number_six));
+        words.add(new Word("seven", getString(R.string.miwokSeven), R.drawable.number_seven, R.raw.number_seven));
+        words.add(new Word("eight", getString(R.string.miwokEight), R.drawable.number_eight, R.raw.number_eight));
+        words.add(new Word("nine", getString(R.string.miwokNine), R.drawable.number_nine, R.raw.number_nine));
+        words.add(new Word("ten", getString(R.string.miwokTen), R.drawable.number_ten, R.raw.number_ten));
 
 
 

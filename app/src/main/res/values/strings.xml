@@ -26,7 +26,45 @@
     <string name="category_numbers">Numbers</string>
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="category_family">Family Members</string>
+    <string name="category_family">Family</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="miwokRed">wetetti</string>
+    <string name="miwokGreen">chokokki</string>
+    <string name="miwokBrown">takaakki</string>
+    <string name="miwokGray">topoppi</string>
+    <string name="miwokBlack">kululli</string>
+    <string name="miwokWhite">kelelli</string>
+    <string name="miwokDustyYellow">topiisә</string>
+    <string name="miwokMustardYellow">chiwiitә</string>
+    <string name="miwokFather">әpә</string>
+    <string name="miwokMother">әta</string>
+    <string name="miwokSon">angsi</string>
+    <string name="miwokDaughter">tune</string>
+    <string name="miwokOlderBrother">taachi</string>
+    <string name="miwokYoungerBrother">chalitti</string>
+    <string name="miwokOlderSister">tete</string>
+    <string name="miwokYoungerSister">kolliti</string>
+    <string name="miwokGrandMother">ama</string>
+    <string name="miwokGrandfather">paapa</string>
+    <string name="miwokOne">lutti</string>
+    <string name="miwokTwo">otiiko</string>
+    <string name="miwokThree">tolookosu</string>
+    <string name="miwokFour">oyyisa</string>
+    <string name="miwokFive">massokka</string>
+    <string name="miwokSix">temmokka</string>
+    <string name="miwokSeven">kenekakau</string>
+    <string name="miwokEight">kawinta</string>
+    <string name="miwokNine">wo\'e</string>
+    <string name="miwokTen">na\'aacha</string>
+    <string name="miwokWhereAreYouGoing">minto wuksus</string>
+    <string name="miwokWhatIsYourName">tinnә oyaase\'nә</string>
+    <string name="miwokMyNameIs">oyaaset...</string>
+    <string name="miwokHowAreYouFeeling">michәksәs?</string>
+    <string name="miwokIAmFeelingGood">kuchi achit</string>
+    <string name="miwokAreYouComing">әәnәs\'aa?</string>
+    <string name="miwokYesIAmComing">hәә’ әәnәm</string>
+    <string name="miwokIAmComing">әәnәm</string>
+    <string name="miwokLetsGo">yoowutis</string>
+    <string name="miwokComeHere">әnni\'nem</string>
 </resources>

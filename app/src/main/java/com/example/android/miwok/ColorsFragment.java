@@ -76,14 +76,14 @@ public class ColorsFragment extends Fragment {
 
         final ArrayList<Word> colors = new ArrayList<Word>();
 
-        colors.add(new Word("red", "weṭeṭṭi", R.drawable.color_red, R.raw.color_red));
-        colors.add(new Word("green", "chokokki", R.drawable.color_green, R.raw.color_green));
-        colors.add(new Word("brown", "ṭakaakki", R.drawable.color_brown, R.raw.color_brown));
-        colors.add(new Word("gray", "ṭopoppi", R.drawable.color_gray, R.raw.color_gray));
-        colors.add(new Word("black", "kululli", R.drawable.color_black, R.raw.color_black));
-        colors.add(new Word("white", "kelelli", R.drawable.color_white, R.raw.color_white));
-        colors.add(new Word("dusty yellow", "ṭopiisә", R.drawable.color_dusty_yellow, R.raw.color_dusty_yellow));
-        colors.add(new Word("mustard yellow", "chiwiiṭә", R.drawable.color_mustard_yellow, R.raw.color_mustard_yellow));
+        colors.add(new Word("red", getString(R.string.miwokRed), R.drawable.color_red, R.raw.color_red));
+        colors.add(new Word("green", getString(R.string.miwokGreen), R.drawable.color_green, R.raw.color_green));
+        colors.add(new Word("brown", getString(R.string.miwokBrown), R.drawable.color_brown, R.raw.color_brown));
+        colors.add(new Word("gray", getString(R.string.miwokGray), R.drawable.color_gray, R.raw.color_gray));
+        colors.add(new Word("black", getString(R.string.miwokBlack), R.drawable.color_black, R.raw.color_black));
+        colors.add(new Word("white", getString(R.string.miwokWhite), R.drawable.color_white, R.raw.color_white));
+        colors.add(new Word("dusty yellow", getString(R.string.miwokDustyYellow), R.drawable.color_dusty_yellow, R.raw.color_dusty_yellow));
+        colors.add(new Word("mustard yellow", getString(R.string.miwokMustardYellow), R.drawable.color_mustard_yellow, R.raw.color_mustard_yellow));
 
 
 
