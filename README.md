@@ -5,7 +5,7 @@ This app displays lists of vocabulary words for the user to learn the Miwok lang
 
 Tapping on a particular word plays its pronounciation in the Miwok language. Android concepts such as intents, activities, activity lifestyle and audio playback were applied.  Under-stood the working of adapters and fragments and implemented them to enhance the performance.
 
-![Before adding fragments ](https://github.com/Ayushman-500/Miwok-App/blob/master/Miwok%20App%20(Version%201).mp4)
+![Before adding fragments ](https://github.com/Ayushman-500/Ayushman-500/blob/master/Miwok%20App%20(Version%201).gif)
 
 
 Pre-requisites
